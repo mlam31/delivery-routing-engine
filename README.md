@@ -5,7 +5,7 @@ A C++17 multi-threaded routing engine designed to manage and prioritize package 
 ## Overview
 This project simulates a logistics hub (inspired by systems like Amazon's) where packages arrive with different priority levels and are dispatched to delivery trucks using a thread-safe priority queue.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** C++17
 - **Build System:** CMake
 - **Concurrency:** Standard Threading Library (`std::thread`, `std::mutex`)
