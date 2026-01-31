@@ -1,0 +1,15 @@
+# Compilation and build files
+build/
+bin/
+obj/
+
+# IDE specific files
+.vscode/
+.vs/
+*.user
+*.sln
+*.vcxproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
